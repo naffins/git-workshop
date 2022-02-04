@@ -2,8 +2,8 @@
 Let's edit this file.
 
 ## Things to buy
-Fake eyeballs
-earrings
+Fake eyeballs <br/>
+earrings <br/>
 
 ## To-do list
 
