@@ -5,7 +5,11 @@ Let's edit this file.
 Fake eyeballs <br/>
 earrings <br/>
 bidoof <br/>
+soy sauce dispenser
+
+
 
 ## To-do list
-be swag <br/>
+1. Be swag <br/>
+2. Create mockup on TinkerCAD
 
