@@ -6,4 +6,5 @@ Fake eyeballs <br/>
 earrings <br/>
 
 ## To-do list
-
+be swag <br/>
+bidoof <br/>
