@@ -12,7 +12,6 @@ a faster turtle robot
 1. Create mockup on TinkerCAD
 
 
-
 ## Meme
 
 ![Git Meme](./assets/meme.jpg)
