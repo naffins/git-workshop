@@ -2,7 +2,9 @@
 Let's edit this file.
 
 ## Things to buy
-1. Buy Arduino UNO 
+
+soy sauce dispenser
+
 
 
 ## To-do list
