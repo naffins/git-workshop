@@ -3,8 +3,9 @@ Let's edit this file.
 
 ## Things to buy
 
-soy sauce dispenser
-
+stress ball hehehhehe
+sleep
+sum good fooood
 
 
 ## To-do list
