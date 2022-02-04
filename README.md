@@ -2,11 +2,10 @@
 Let's edit this file.
 
 ## Things to buy
-- eggs
-- mayo
-- bread
+
+soy sauce dispenser
+
+
 
 ## To-do list
-- go buy food
-- write code
-- write code, but to shitpost
+1. Create mockup on TinkerCAD
