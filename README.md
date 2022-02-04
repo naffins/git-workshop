@@ -7,4 +7,6 @@ mayo
 bread
 
 ## To-do list
-go buy food
+- Code the robot
+- Buy Materials 
+- Can add more 
