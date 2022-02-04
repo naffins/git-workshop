@@ -11,7 +11,9 @@ soy sauce dispenser
 
 
 ## To-do list
-
 1. Be swag <br/>
 2. Create mockup on TinkerCAD
+
+## Meme
+![Git Meme](./assets/meme.jpg)
 
